@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"roman_empire",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":224.62694,
+  "name":"roman_empire",
+  "parent":{
+    "name":"Музыка",
+    "path":"folders/Звуки/Музыка.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"roman_empire.mp3",
+  "type":0,
+  "volume":0.15,
+}

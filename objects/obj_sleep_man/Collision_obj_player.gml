@@ -1,0 +1,1 @@
+if dialog == 0 then dialog = 1

@@ -1,0 +1,1 @@
+if distance_to_object(obj_player)<5 and dialog = 0 and (keyboard_check(ord("Z")) or keyboard_check(ord("E"))) then dialog = 1

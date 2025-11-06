@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scene_fade_in",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scene_fade_in",
+  "parent":{
+    "name":"Скрипты",
+    "path":"folders/Скрипты.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

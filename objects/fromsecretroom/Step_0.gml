@@ -1,0 +1,1 @@
+if distance_to_object(obj_player)<5 then room_goto(main_hall)

@@ -1,0 +1,1 @@
+//if distance_to_object(obj_player)<30 and dialog = 0 then dialog = 1

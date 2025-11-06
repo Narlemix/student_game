@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"boy_sound",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.064036,
+  "name":"boy_sound",
+  "parent":{
+    "name":"Звуки",
+    "path":"folders/Звуки/Звуки.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"boy_sound.wav",
+  "type":0,
+  "volume":0.1,
+}
